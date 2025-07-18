@@ -1,0 +1,27 @@
+Site Header and Nav bar = page.tsx > function Header
+    Site Header/Help+Source buttons/Preset functions
+
+log craftingData button = page.tsx > function main
+    does nothing atm, actual function added later
+
+Popup Test/Additive button = page.tsx > function main
+    *display = popup.tsx > function PopupEditor , root is in page.tsx 
+    Menu to add processes or items
+
+Calculator display = svg.tsx 
+    Vectors/Text/Circles
+
+Item Lists from calculation = huristics.tsx > function HuristicStats
+    Resulting/Intermediate/Required items
+
+Custom Classes = globals.css
+    Custom class tags / css+tailwind
+
+Resource List = selectionMenu.tsx > function ListResources
+    Search Bar and Item list display
+
+Process List = selectionMenu.tsx > function ListProcesses
+    Name self explanatory
+
+Crafting Request list = selectionMenu.tsx > function ListRequests
+    Crafting request menu
